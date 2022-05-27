@@ -1,4 +1,5 @@
 body {
+    margin: 0px;
     font-family: 'Oswald', sans-serif;
 }
 h1{
@@ -11,10 +12,41 @@ h1{
 .two
 {
     width: 40%;
-    float:left;
+    float: left;
     padding-left: 5%;
     margin-left: 5%;
 }
 .two img{
     width:100%;
+}
+p{
+    color: dimgray;
+}
+.top
+{  
+    background-image: url("white-abstract-background-vector-circle-abstract-background-for-presentation.webp");
+}
+section
+{
+    height: 500px; 
+    padding-bottom:  150px;
+}
+.angkor {
+text-decoration:none;
+background-image:linear-gradient(tomato ,red);
+padding: 10px  20px;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+}
+.dream{
+    background-image: url(milad-fakurian-UiiHVEyxtyA-unsplash.jpg);
+}
+.box-1{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+
+}
+.ex{
+    background-image: url("R.jpg");
 }
